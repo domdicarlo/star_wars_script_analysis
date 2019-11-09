@@ -1,4 +1,4 @@
-# hw10 by Dominic DiCarlo
+# Star Wars Script Analysis
 
 ## About
 In this fun analysis, I take Star Wars movie screenplays and look at word frequencies and sentiment across films in the original and prequel trilogies. I also look briefly at the one of the newer movies and make a comparison to the originals. I scrape the texts from the [the Internet Movie Script Database](https://www.imsdb.com/) in the R-Markdown. I have also added backup copies of these texts in the "./data" directory. 
